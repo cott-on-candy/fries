@@ -1,2 +1,2 @@
-# 🥂 champagne
+# 🍟 fries
 
