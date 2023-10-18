@@ -8,7 +8,7 @@ program
   .version(version);
 
 program.command('parse')
-  .description('Parse a string into cangjie keyboard input letters')
+  .description('parse, fucking hell')
   .argument('<string>', 'string to parse')
   .option('-d, --debug', 'debug')
   .action((s, { debug }) => {
